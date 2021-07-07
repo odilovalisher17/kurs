@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1846bb3f.chunk.css",
+    "main.js": "/static/js/main.b0589807.chunk.js",
+    "main.js.map": "/static/js/main.b0589807.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1cad024d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1cad024d.js.map",
+    "static/css/2.76f6d367.chunk.css": "/static/css/2.76f6d367.chunk.css",
+    "static/js/2.caf50e25.chunk.js": "/static/js/2.caf50e25.chunk.js",
+    "static/js/2.caf50e25.chunk.js.map": "/static/js/2.caf50e25.chunk.js.map",
+    "static/js/3.952646bb.chunk.js": "/static/js/3.952646bb.chunk.js",
+    "static/js/3.952646bb.chunk.js.map": "/static/js/3.952646bb.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.76f6d367.chunk.css.map": "/static/css/2.76f6d367.chunk.css.map",
+    "static/css/main.1846bb3f.chunk.css.map": "/static/css/main.1846bb3f.chunk.css.map",
+    "static/js/2.caf50e25.chunk.js.LICENSE.txt": "/static/js/2.caf50e25.chunk.js.LICENSE.txt",
+    "static/media/fiz1.0dfe5fa4.jpg": "/static/media/fiz1.0dfe5fa4.jpg",
+    "static/media/fiz3.ce3a58ff.jfif": "/static/media/fiz3.ce3a58ff.jfif",
+    "static/media/font-awesome.css": "/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/foto1.cf0b2f75.jpg": "/static/media/foto1.cf0b2f75.jpg",
+    "static/media/math 2.d4a327cf.png": "/static/media/math 2.d4a327cf.png",
+    "static/media/math1.ad898541.webp": "/static/media/math1.ad898541.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1cad024d.js",
+    "static/css/2.76f6d367.chunk.css",
+    "static/js/2.caf50e25.chunk.js",
+    "static/css/main.1846bb3f.chunk.css",
+    "static/js/main.b0589807.chunk.js"
+  ]
+}
